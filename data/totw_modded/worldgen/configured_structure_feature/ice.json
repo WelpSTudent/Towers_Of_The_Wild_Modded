@@ -1,0 +1,10 @@
+{
+    "type": "minecraft:village",
+    "biomes": "#totw_modded:has_structure/ice_tower",
+    "adapt_noise": true,
+    "spawn_overrides": {},
+    "config": {
+        "start_pool": "totw_modded:ice/bottom",
+        "size": 1
+    }
+}
