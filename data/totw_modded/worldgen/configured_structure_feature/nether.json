@@ -1,0 +1,10 @@
+{
+    "type": "minecraft:bastion_remnant",
+    "biomes": "#totw_modded:has_structure/nether_tower",
+    "adapt_noise": true,
+    "spawn_overrides": {},
+    "config": {
+        "start_pool": "totw_modded:nether/bottom",
+        "size": 1
+    }
+}
