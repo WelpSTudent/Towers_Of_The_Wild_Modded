@@ -1,5 +1,6 @@
 # Towers_Of_The_Wild_Modded
 Towers Of The Wild Modded implements towers based off of the original mod https://www.curseforge.com/minecraft/mc-mods/towers-of-the-wild.
+![Screenshot](pack.png)
 
 Nether & End towers are forked from https://www.curseforge.com/minecraft/mc-mods/towers-of-the-wild-additions.
 
@@ -19,4 +20,4 @@ Hence, credit has just now been attributed.
 
   Derelict variants, Regular, Jungle, Ice are pulled from https://www.curseforge.com/minecraft/texture-packs/towers-of-the-wild-reworked-datapack.
 
-![Screenshot](pack.png)
+
