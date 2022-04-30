@@ -7,3 +7,4 @@ Folder Structure is based off of https://www.curseforge.com/minecraft/texture-pa
 
   Derelict variants, Regular, Jungle, Ice are pulled from https://www.curseforge.com/minecraft/texture-packs/towers-of-the-wild-reworked-datapack.
 
+![Screenshot](pack.png)
