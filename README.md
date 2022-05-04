@@ -21,4 +21,4 @@ Hence, credit has just now been attributed.
   Derelict variants, Regular, Jungle, Ice are pulled from https://www.curseforge.com/minecraft/texture-packs/towers-of-the-wild-reworked-datapack.
 
 v1.0.2 tower variants:
-![Screenshot](tower-variants-1.0.2.png)
+![Screenshot](tower-variants-1.1.1.png)
