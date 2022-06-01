@@ -1,13 +1,13 @@
 {
     "display": {
         "icon": {
-            "item": "minecraft:stone_bricks"
+            "item": "waystones:mossy_waystone"
         },
         "title": {
-            "translate": "Towers of the Wild: Reworked"
+            "translate": "Towers of the Wild: Modded"
         },
         "description": {
-            "translate": "Are you able to climb all Towers?"
+            "translate": "Will you climb all of the towers and activate the link?"
         },
         "frame": "task",
         "show_toast": false,
