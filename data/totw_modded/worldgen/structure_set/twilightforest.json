@@ -3,6 +3,10 @@
         {
             "structure": "totw_modded:tw_mangrove",
             "weight": 1
+        },
+        {
+            "structure": "totw_modded:tw_canopy",
+            "weight": 1
         }
     ],
     "placement": {
