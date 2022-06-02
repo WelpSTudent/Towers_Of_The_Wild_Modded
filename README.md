@@ -1,6 +1,7 @@
 # Towers_Of_The_Wild_Modded
 Towers Of The Wild Modded implements towers based off of the original mod https://www.curseforge.com/minecraft/mc-mods/towers-of-the-wild.
-https://i.imgur.com/s0wQnFY.png
+
+# <img alt="YAP" src="https://i.imgur.com/s0wQnFY.png">
 
 Nether & End towers are forked from https://www.curseforge.com/minecraft/mc-mods/towers-of-the-wild-additions.
 
